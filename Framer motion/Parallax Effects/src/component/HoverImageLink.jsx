@@ -9,31 +9,31 @@ export const HoverImageLinks = () => {
         <Link
           heading="About"
           subheading="Learn what we do here"
-          imgSrc="/imgs/random/11.jpg"
+          imgSrc="https://images.unsplash.com/photo-1727121798717-5dd950142c00?q=80&w=1806&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           href="#"
         />
         <Link
           heading="Clients"
           subheading="We work with great people"
-          imgSrc="/imgs/random/6.jpg"
+          imgSrc="https://images.unsplash.com/photo-1725367844573-4e4f7d872b3d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           href="#"
         />
         <Link
           heading="Portfolio"
           subheading="Our work speaks for itself"
-          imgSrc="/imgs/random/4.jpg"
+          imgSrc="https://images.unsplash.com/photo-1721273281820-959ad38b7e3f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           href="#"
         />
         <Link
           heading="Careers"
           subheading="We want cool people"
-          imgSrc="/imgs/random/5.jpg"
+          imgSrc="https://images.unsplash.com/photo-1550000199-0d0e6f75e958?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           href="#"
         />
         <Link
           heading="Fun"
           subheading="Incase you're bored"
-          imgSrc="/imgs/random/10.jpg"
+          imgSrc="https://images.unsplash.com/photo-1595441246964-059142a30c94?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           href="#"
         />
       </div>
